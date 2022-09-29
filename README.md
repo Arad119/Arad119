@@ -4,12 +4,12 @@
 [![Twitch Status](https://img.shields.io/twitch/status/arad119?color=9147FF&logo=twitch&style=for-the-badge)](https://twitch.tv/arad119)
 
 
-# 🧑‍💻 My open source repos
+# 💻 My open source repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arad119&repo=Fragfinder-GUI&theme=dark)](https://github.com/Arad119/Fragfinder-GUI)
 
 
-# 📊 My Stats
+# 📊 Github Stats
 
 [![Arad119's github stats](https://github-readme-stats.vercel.app/api?username=arad119&show_icons=true&count_private=true&theme=dark&hide=stars)](https://github.com/arad119)
 
