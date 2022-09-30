@@ -12,5 +12,7 @@
 # 📊 Github Stats
 
 [![Arad119's github stats](https://github-readme-stats.vercel.app/api?username=arad119&show_icons=true&count_private=true&theme=dark&hide=stars)](https://github.com/arad119)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arad119)](https://github.com/arad119/)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arad119&theme=dark&count_private=true&theme=dark)](https://github.com/arad119)
