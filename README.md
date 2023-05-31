@@ -7,6 +7,7 @@
 # 💻 My open source repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arad119&repo=Fragfinder-GUI&theme=dark)](https://github.com/Arad119/Fragfinder-GUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arad119&repo=FFMPEG-Audio-Encoder&theme=dark)](https://github.com/Arad119/FFMPEG-Audio-Encoder)
 
 
 # 📊 Github Stats
