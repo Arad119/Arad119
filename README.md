@@ -1,6 +1,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/arad119?logo=github&style=for-the-badge)](https://github.com/arad119)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiix35JiRcmfzGzpzgJLS1g?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://www.youtube.com/channel/UCiix35JiRcmfzGzpzgJLS1g?sub_confirmation=1) 
-[![Twitter Followers](https://img.shields.io/twitter/follow/arad119?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/arad119)
+[![Twitter Followers](https://img.shields.io/badge/TWITTER-1.1K-0E7FC0?style=for-the-badge&logo=twitter&label=Twitter&link=https%3A%2F%2Ftwitter.com%2Farad119)
 [![Twitch Status](https://img.shields.io/twitch/status/arad119?color=9147FF&logo=twitch&style=for-the-badge)](https://twitch.tv/arad119)
 
 
