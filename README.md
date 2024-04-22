@@ -9,6 +9,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arad119&repo=Fragfinder-GUI&theme=dark)](https://github.com/Arad119/Fragfinder-GUI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arad119&repo=FFMPEG-Audio-Encoder&theme=dark)](https://github.com/Arad119/FFMPEG-Audio-Encoder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arad119&repo=OVH-Expiration-Fetcher&theme=dark)](https://github.com/Arad119/OVH-Expiration-Fetcher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arad119&repo=Dathost-API&theme=dark)](https://github.com/Arad119/Dathost-API)
 
 
 # 📊 Github Stats
