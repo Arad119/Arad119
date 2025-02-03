@@ -10,6 +10,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arad119&repo=FFMPEG-Audio-Encoder&theme=dark)](https://github.com/Arad119/FFMPEG-Audio-Encoder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arad119&repo=OVH-Expiration-Fetcher&theme=dark)](https://github.com/Arad119/OVH-Expiration-Fetcher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arad119&repo=Dathost-API&theme=dark)](https://github.com/Arad119/Dathost-API)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arad119&repo=Nyaa-Magnet-Helper&theme=dark)](https://github.com/Arad119/Nyaa-Magnet-Helper)
+
 
 
 # 📊 Github Stats
